@@ -1,0 +1,116 @@
+.body {
+  margin: 0;
+  padding: 0;
+
+}
+
+
+
+  /* The javascript used */
+
+#particles-js {
+
+  position:absolute;
+width:100%;
+  height:100%;
+    background-color: black;
+
+}
+
+/* nav bar contents */
+.moon{
+  color:#6E00DD;
+}
+
+
+
+
+.Nav {
+  color:  white;
+  padding: 100px 25px;
+  font-size: 13px;
+  font-weight: bold;
+}
+ .Nav:hover {
+  color: #6E00DD;
+}
+.moon:hover{
+  color: white;
+}
+/* title part code */
+.name {
+  top:50%;
+  left:18%;
+
+  display: inline-block;
+  padding: 19% 0 0 0;
+  position: absolute;
+  color: #6E00DD;
+  font-size: 70px;
+  font-weight: bold;
+  padding-top: 0px;
+  padding-right: 0px;
+}
+
+.vertcal {
+  display: inline-block;
+  border-left: 6px solid white;
+  height: 250px;
+  position: absolute;
+  left: 50%;
+  top: 40%;
+  padding-right: 0;
+}
+
+.ano {
+  top: 54%;
+  padding-left: 52%;
+  padding-right: 25%;
+  color: white;
+  display: inline-block;
+  position: absolute;
+  font-weight: bolder;
+}
+
+/* mobile veiw properties */
+/* @media(max-width:800px){
+.body{
+  margin-left:100%;
+
+  padding: 0;
+}
+#particles-js {
+  position: absolute;
+  width: 200%;
+  height: 100%;
+
+}
+.row{
+  width:75%;
+
+}
+.name{
+  font-size: 50px;
+  text-align: center;
+top:25%;
+right:5%;
+
+}
+.vertcal{
+  visibility: hidden;
+}
+.line{
+border: 3px solid white;
+position: absolute;
+margin-top: 10%;
+width: 20%;
+left: 40%;
+top: 50%;
+}
+.ano{
+  padding-right: 10%;
+  text-align: center;
+  margin-right: 10%;
+
+}
+} */
